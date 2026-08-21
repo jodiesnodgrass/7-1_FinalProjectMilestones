@@ -1,5 +1,8 @@
 # 7-1_FinalProjectMilestones
 
+<img width="968" height="746" alt="image" src="https://github.com/user-attachments/assets/bddd44bc-e5ca-452e-8537-0f2c82c7fa8f" />
+
+
 What new design skills has your work on the project helped you to craft?
 
 Working on this project pushed me to think like a 3D designer for the first time. Forcing me to shift from a flat 2D mindset to building within a full three-dimensional space. I learned how to balance visual composition by pairing hard geometric objects with organic forms, using scale and positioning to create natural depth. Most importantly, it completely changed how I look at lighting—I had to learn how use ambient fill, direct light angles, and specular highlights to create a 3D realistic scene.
