@@ -21,3 +21,17 @@ I adopted a modular development approach by writing dedicated helper functions l
 
 How did iteration factor into your development?
 
+Iteration was the core of my development process since I was building and lighting a 3D scene from scratch for the first time. I constantly ran the program to test small incremental changes. For example getting the lighting to match my reference photo took multiple rounds of adjusting diffuse values, attenuation, and beam angles to make sure the light hit both the wall and the table properly without washing out the vase.
+
+How has your approach to developing code evolved throughout the milestones, which led you to the project’s completion?
+
+My approach evolved from writing linear, hardcoded scripts to building a clean, modular architecture. First I was focused just on getting basic shapes to display on the screen, which was at first not even similar to the real picture vase. As the scene grew more complex by adding textures and adding lighting, I shifted toward writing reusable helper functions to handle transformations and lighting setups separately. By the final project my goal was just to add the rest of the flowers, placing the flowers, and adjusting the lighting and shape of vase to fine tune the scene. My focus had fully transitioned to code maintainability using loops, arrays, and parameterized functions so I could tweak visual elements and lighting parameters quickly without breaking the rest of the application.
+
+How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future educational pathway?
+
+Working with computational graphics and visualizations builds a solid foundation in low-level linear algebra and matrix transformations which directly translates to advanced computer science coursework like computer vision, game engine development, and machine learning. Managing camera view matrices, coordinate spaces, and vertex shaders sharpens your spatial reasoning and data visualization skills, making it easier to represent complex multidimensional data clearly.
+
+How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future professional pathway?
+
+I am not sure what my future professional pathway will lead to. But mastering computational graphics and visualizations builds technical skills that translate directly into software engineering, data science, and user interface development. Translating real-world visual concepts into mathematical models sharpens your problem-solving ability, making it easier to handle complex software architectures and algorithm design.
+
